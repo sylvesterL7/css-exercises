@@ -24,6 +24,7 @@ ul {
   padding: 0;
   /* this removes the dots on the list items*/
   list-style-type: none;
+  justify-content: start;
 }
 
 a {
